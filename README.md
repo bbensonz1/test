@@ -6,7 +6,7 @@
 
 ## Techologies Used
 * :hammer: <strong>HTML</strong>, <strong>CSS</strong>, <strong>jQuery</strong>
-* :tada: <strong>Cards are animated with card flip/unflip effects</strong>
+* :tada: <strong>Cards are animated with card flip/unflip effects,thanks to jQuery</strong>
 * :computer: <strong>'Deployed' using GitHub Pages</strong>
 
 ## Demo
