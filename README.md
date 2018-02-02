@@ -10,7 +10,7 @@
 
 ## Demo
 <div align="center">
-  <img src="https://i.imgur.com/UdzkEcF.png" width=350px/>
+  <img src="https://i.imgur.com/UdzkEcF.png" width=400px/>
 </div>
 
 ## Using locally
