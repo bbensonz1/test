@@ -7,3 +7,12 @@
 ## Techologies Used
 * :hammer: <strong>HTML</strong>, <strong>CSS</strong>, <strong>jQuery</strong>
 * :computer: <strong>'Deployed' using GitHub Pages</strong>
+
+## Demo
+<div align="center">
+  <img src="https://i.imgur.com/15UJh0z.png" width=250px/>
+</div>
+
+## Using locally
+* Clone/download the repo
+* Open index.html file, in any browser
